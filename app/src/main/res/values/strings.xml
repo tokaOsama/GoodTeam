@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoodTeam</string>
+
+    <string-array name="Grander">
+        <item> Male </item>
+        <item> Female </item>
+    </string-array>
+    <string name="title_activity_posts__team">Posts_Team</string>
+</resources>
